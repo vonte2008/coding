@@ -11,31 +11,49 @@
 # 1. Name and describe three (3) built-in functions in python. 
 # Please write your responses in complete sentences.
 three built in fuctions are def print and interger 
+"prints()- prints out data
+"input"()- takes in user data from terminal 
+"int"()- turns data into whole number
+"str"
+
 
 
 # 2. What data type will the following snippet of code output?
 print(30/ 232) it would put out data types and float
+'float data type'
+
 
 # 3.  Identify and name the operator family each of the following
 # symbols belongs to.
 
-# and is a assighment operators 
-# == is a comparison operators 
-# >
+# and belongs to the logic operator famliy 
+# == is a comparison operators family 
+# > belongs to the comparison operator family 
 
 # 4. Explain the difference between the = operator and the == operator.
 # Please write your response in complete sentences.
-one will stay the same 
+"the diffence between = and == is that theat the single equal"
+"sign is for assigning values to variables"
+" The double equal sign is for comparing value"
 
 # 5. Write code that takes a user’s input (as a string), 
 # casts it to a float, and prints the result multiplied by 2.
+number = input("type in a number")
+#number = float(input("type in a number"))
+#newNumber = float(number)
+#print(number* 2)
+print(float(number)*2)
 
 # 6. What is the difference between a parameter and an argument?
 # Please write your response in complete sentences.
+"a parameter is a variable or placeholde for data in the fuction defintion"
+"an argument is the actual values that go in our function "
+
 
 # 7. What is the difference between a function definition 
 # and a function invocation? # Please write your response in 
 # complete sentences.
+"A fuction defination "
 
 # 8. Why are functions useful in programming? Provide at least two reasons 
 # and write your reasons in in complete sentences.
