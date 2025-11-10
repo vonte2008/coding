@@ -7,6 +7,6 @@ while i < 10: # this is true do the following
     # intial condition is no longer true 
 
 
-
+def 
 
     
