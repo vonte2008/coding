@@ -9,3 +9,14 @@ else:
 
 
 def reverse_and_prefix_string(input_string):
+
+
+
+
+def numberguessinggame():
+    correctnumber = 9 
+    guess= input("please guess a number")
+    while guess != correctnumber:
+        if guess > correctnumber
+        print("incorrect, number too high please guess again")
+        
