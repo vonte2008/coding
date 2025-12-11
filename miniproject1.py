@@ -19,7 +19,7 @@ def quiz_game():
             "qustion" : ("who is the best African Ameican youtuber")
             "options" : ["A. berleezy, B. Dashie, C. RDC, D. CoryXkenshin"]
             "answer" : "D"
-        }
+        }                                                                                                                                                                                                                                                                                                                                                                                                                                 
         {    
             "qustion" : (" who is the strongest in the verse")
             "options" : ("A. Broly, B. Goku, C. Gohan, D. zeno")
@@ -27,3 +27,18 @@ def quiz_game():
 
             for q in qustion
 
+
+
+
+      print("which of the following uses wrapperd quotations )
+      print(A, boolen)
+      print(B. Strings)
+      print(C. varibles) 
+      print(D. true or false)
+
+
+      print ('9. which metod can be used  to remove white from yjr')
+
+
+      print(what uses true or false)
+      
