@@ -23,6 +23,8 @@ def GPA_calculator():
                  letter_grade = "B"
             elif averge_grade >= 70:
                  letter_grade = "c"
+            elif averge_grade >= 60:
+                 lette_grade = "D"
            
 
                                    
